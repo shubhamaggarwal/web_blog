@@ -1,0 +1,10 @@
+.all_forms{
+   max-width:480px;
+   margin-top:40px;
+}
+body{
+    background: #200122; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #200122 , #6f0000); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #200122 , #6f0000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color:white;
+}
